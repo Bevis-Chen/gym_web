@@ -1,0 +1,107 @@
+body {
+    background-color: honeydew;
+    font-family: sans-serif, DFKai-SB, Microsoft JhengHei
+}
+
+.title {
+    background-color: #44516f;
+    color: ivory;
+    font-size: 18px;
+    height: 20rem;
+    border-radius: 0.5rem;
+    padding: 12px;
+    text-align: center;
+}
+
+.sub-title {
+    display: inline-block;
+    background-color: darkcyan;
+    color: darkgray;
+    border-radius: 0.5rem;
+    margin: 2px;
+    line-height: 20px;
+    padding: 12px;
+    text-align: center;
+}
+
+#container {
+    width: 85%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.text-1 {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0px 20px;
+}
+
+.text-2 {
+    background: darkred;
+    color: gold;
+    padding: 10px;
+    border: 2px rgb(21, 140, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text-3 {
+    text-align: left;
+    border-radius: 00.5rem;
+    margin-bottom: 12px;
+
+}
+
+.slogan {
+    font-size: 32px;
+    margin-left: 10px;
+    color: greenyellow;
+}
+
+#good-link a {
+    text-decoration: none;
+    color: hotpink;
+    font-size: 20px;
+}
+
+#picture img {
+    border-radius: .3rem;
+    margin: 0 6px
+}
+
+table {
+    width: 88%;
+    margin: 10px auto;
+    height: 200px;
+}
+
+table th {
+    background-color: navy;
+    color: seashell;
+}
+
+.form {
+    background-color: sienna;
+    color: snow;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 0.8rem;
+    padding: 3px;
+}
+
+input,
+button,
+textarea {
+    font-size: 18px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+button {
+    color: teal;
+    background-color: yellow;
+    border-radius: 0.3rem;
+    border: 0;
+    font-size: 30px;
+    margin-bottom: 12px;
+}
